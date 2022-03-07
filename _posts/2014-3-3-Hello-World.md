@@ -15,5 +15,8 @@ title: Information Management Assignment Management Page
 [Prepare for class04](https://github.com/NadavBlanck/NadavBlanck.github.io/files/8199938/IM_Prepare.for.class04.pdf)
 
 [Prepare for class05](https://github.com/NadavBlanck/NadavBlanck.github.io/files/8199942/IM_Prepare.for.class05.pdf)
+
+[Project proposal.docx](https://github.com/NadavBlanck/NadavBlanck.github.io/files/8201081/Project.proposal.docx)
+
 ---
 
