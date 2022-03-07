@@ -1,7 +1,9 @@
-[Presentation1.pptx](https://github.com/NadavBlanck/NadavBlanck.github.io/files/8199417/Presentation1.pptx)
----
 layout: post
 title: Information Management Assignment Management Page
+
+[Presentation1.pptx](https://github.com/NadavBlanck/NadavBlanck.github.io/files/8199417/Presentation1.pptx)
+---
+
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
