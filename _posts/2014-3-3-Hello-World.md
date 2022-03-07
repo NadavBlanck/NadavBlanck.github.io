@@ -1,3 +1,4 @@
+[IM_Prepare for class05.pdf](https://github.com/NadavBlanck/NadavBlanck.github.io/files/8199942/IM_Prepare.for.class05.pdf)
 ---
 layout: post
 title: Information Management Assignment Management Page
