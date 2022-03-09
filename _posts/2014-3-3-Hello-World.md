@@ -1,7 +1,7 @@
 
 ---
-layout: post
-title: You're up and running!
+layout: default
+title: Assignments
 ---
 
 [Assignment 1](https://github.com/NadavBlanck/NadavBlanck.github.io/files/8199576/Assignment.1.pptx)
