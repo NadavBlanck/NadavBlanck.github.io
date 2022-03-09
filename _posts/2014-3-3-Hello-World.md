@@ -1,8 +1,8 @@
 
 ---
 layout: post
-title: Information Management Assignment Management Page
-
+title: You're up and running!
+---
 
 [Assignment 1](https://github.com/NadavBlanck/NadavBlanck.github.io/files/8199576/Assignment.1.pptx)
 
