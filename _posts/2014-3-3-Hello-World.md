@@ -1,7 +1,6 @@
 
 ---
-layout: default
-title: Assignments
+ Assignments
 ---
 
 [Assignment 1](https://github.com/NadavBlanck/NadavBlanck.github.io/files/8199576/Assignment.1.pptx)
@@ -12,8 +11,9 @@ title: Assignments
 
 [Assignment 4](https://github.com/NadavBlanck/NadavBlanck.github.io/files/8219430/Assignment.4.pptx)
 
-
 ---
+
+ Other
 
 [Prepare for class04](https://github.com/NadavBlanck/NadavBlanck.github.io/files/8199938/IM_Prepare.for.class04.pdf)
 
