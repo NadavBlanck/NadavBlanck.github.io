@@ -1,3 +1,4 @@
+[YouTube relation schema.pptx](https://github.com/NadavBlanck/NadavBlanck.github.io/files/8345490/YouTube.relation.schema.pptx)
 
 ---
  Assignments
