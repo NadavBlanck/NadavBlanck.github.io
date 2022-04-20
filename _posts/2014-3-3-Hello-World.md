@@ -1,6 +1,10 @@
-# [YouTube relation schema.pptx](https://github.com/NadavBlanck/NadavBlanck.github.io/files/8345490/YouTube.relation.schema.pptx)
+[Thesis presentation](https://github.com/NadavBlanck/NadavBlanck.github.io/files/8518268/Thesis.presentation.pptx)
+
 
 ---
+# [YouTube relation schema.pptx](https://github.com/NadavBlanck/NadavBlanck.github.io/files/8345490/YouTube.relation.schema.pptx)
+
+
 # Assignments
 ---
 
